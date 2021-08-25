@@ -1,5 +1,5 @@
 // Downloaded From https://www.WiseStockTrader.com
-//Author :  Ashok Kumar Yadala
+//Author :  SR
 //Credits to all authors , code adopted from open source authors and modified as per real time needs!
 _SECTION_BEGIN("Total OI");
 
